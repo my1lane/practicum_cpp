@@ -6,6 +6,7 @@ using namespace std;
 int main()
 {
     string first_word, second_word, third_word, fourth_word, fifth_word;
+    
     cin >> first_word >> second_word
     >> third_word >> fourth_word
     >> fifth_word;
